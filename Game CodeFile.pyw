@@ -360,3 +360,4 @@ def main(): #main function to run the game
 
 if __name__ == "__main__": #created to run the game and start from a specific function
     main()
+
